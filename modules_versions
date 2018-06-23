@@ -5,5 +5,5 @@ export iolite-provider_revision=fdd9713b25f7dce938394fa7eaabd53d2e554d2c
 export iolite-provider_url=git@github.com:iolitelabs/iolite-provider.git
 export iolite-web3_revision=25b3dbd242302594007f062f870530c89f6aec08
 export iolite-web3_url=git@github.com:iolitelabs/iolite-web3.git
-export vscode-solidity-iolite_revision=f7c6039586c731eeae6632b37b4e9d5c4dc4b007
+export vscode-solidity-iolite_revision=dc01792d5e1e94217cdf5ef6743473bf22a3b43e
 export vscode-solidity-iolite_url=git@github.com:iolitelabs/vscode-solidity-iolite.git
