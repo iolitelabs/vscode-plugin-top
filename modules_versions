@@ -1,4 +1,5 @@
 # revision for each git submodule
+<<<<<<< HEAD
 export ethjs-iolite-signer_revision=19fa75671188e44278d210bda5feab9e39fc9ce8
 export ethjs-iolite-signer_url=git@github.com:iolitelabs/ethjs-iolite-signer.git
 export iolite-provider_revision=a3fb95f17e40b4614ace98705ffc10390aba38aa
@@ -7,3 +8,13 @@ export iolite-web3_revision=7b6a03c4bafd209e0f7ad708a29a14cc0e0ad133
 export iolite-web3_url=git@github.com:iolitelabs/iolite-web3.git
 export vscode-solidity-iolite_revision=e720eed9c9edcfac0131fdcf5c7ec7b3e7c640be
 export vscode-solidity-iolite_url=git@github.com:iolitelabs/vscode-solidity-iolite.git
+=======
+export ethjs-iolite-signer_revision=4d711f032aa30c3494299093279446c9ce762d60
+export ethjs-iolite-signer_url=https://github.com/iolitelabs/ethjs-iolite-signer.git
+export iolite-provider_revision=fdd9713b25f7dce938394fa7eaabd53d2e554d2c
+export iolite-provider_url=https://github.com/iolitelabs/iolite-provider.git
+export iolite-web3_revision=25b3dbd242302594007f062f870530c89f6aec08
+export iolite-web3_url=https://github.com/iolitelabs/iolite-web3.git
+export vscode-solidity-iolite_revision=247e4d9bd1bcd21ac477a0b79dfa67e2f731938d
+export vscode-solidity-iolite_url=https://github.com/iolitelabs/vscode-solidity-iolite.git
+>>>>>>> 66a2afac5cb854ac6f2dc8fed0f81dcc6c56dd82
