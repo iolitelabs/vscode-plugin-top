@@ -26,7 +26,7 @@ vscode-solidity-iolite:
 
 build: $(modules)
 	cd vscode-solidity-iolite; npm install
-	cd vscode-solidity-iolite; ./node_modules/.bin/electron-rebuild -v 1.7.9 
+	cd vscode-solidity-iolite; ./node_modules/.bin/electron-rebuild -v 1.8
 
 package:
 	cd vscode-solidity-iolite; rm -f package-lock.json
